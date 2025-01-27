@@ -17,21 +17,14 @@
 </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/output/Vira_Dados_Ep01.MP3"> 🔴Clique aqui para ouvir</p>
 
-<div align="center">
-    <audio src="output/Vira_Dados_Ep01.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
+# Projeto DIO - Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido Bootcamp - CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Desafio com o objetivo de gerar um relatório visual e organização da vida Financeira com Planilhas Inteligentes, utilizando ferramentas de IA através de prompts mais trabalhados para geração de insights.
 
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -46,7 +39,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 No Excel:
 
-Obs.: Base de dados inicial forncecidos pela DIO 
+Obs.: Base de dados inicial forncecidos pela [DIO](https://dio.me)
 - Importação da base de dados
 - Limpeza e tratamento dos dados
 - Modelagem dos dados
