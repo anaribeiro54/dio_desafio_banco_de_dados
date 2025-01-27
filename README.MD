@@ -79,8 +79,8 @@ Leonardo AI：
 - [Planilha com dashboard](https://github.com/anaribeiro54/dio_desafio_banco_de_dados/blob/main/Data_base_com%20_dashboard.xlsx)
 
 
-## 👨‍💻 Expert
+## 👩‍💼 Expert
 
 ---
 
-⌨️ com 💜 por [Ana Ribeiro](https://github.com/anaribeiro54/)
+⌨️ com ❤ por [Ana Ribeiro](https://github.com/anaribeiro54/)
