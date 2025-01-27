@@ -1,7 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/A hand-drawn sketch in classic black and white, depicting a woman surrounded by ascending graphs and a path. The style is timeless and elegant, featuring rough lines, textured pencil strokes, and deep shadows again.jpg"
-    width="300"
+    src="https://github.com/anaribeiro54/dio_desafio_banco_de_dados/blob/main/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg"
 />
 </p>
 
