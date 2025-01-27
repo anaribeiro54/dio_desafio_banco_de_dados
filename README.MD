@@ -1,61 +1,91 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+<img 
+    src="./assets/A hand-drawn sketch in classic black and white, depicting a woman surrounded by ascending graphs and a path. The style is timeless and elegant, featuring rough lines, textured pencil strokes, and deep shadows again.jpg"
+    width="300"
+/>
 </p>
 
+<p align="center">
+<a href="https://dio.me/">
+    <img 
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+        alt="DIO - Code The Future">
+</a>
+<a href="https://dio.me/">
+<img 
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    alt="🔴 LIVE CODE">
+</a>
+</p>
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+    <a href="https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/output/Vira_Dados_Ep01.MP3"> 🔴Clique aqui para ouvir</p>
 
--------
+<div align="center">
+    <audio src="output/Vira_Dados_Ep01.MP3" controls title="Podcast editado"></audio>
+</div>
+
+# Projeto Podcast Gerado por I.A.s
 
 
-# Projeto EBOOK Gerado por I.A.s
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/blob/main/e-book%20atualizado%20-%20Superando%20desafios%20-%20minha%20trajet%C3%B3ria%20na%20an%C3%A1lise%20de%20dados.pdf"> 📕Clique aqui para ler</a>
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo AI](https://leonardo.ai/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Excel](https://www.microsoft.com/en/microsoft-365/excel)
+
+
+## ✨ Como foi feito ?
+
+
+
+No Excel:
+
+Obs.: Base de dados inicial forncecidos pela DIO 
+- Importação da base de dados
+- Limpeza e tratamento dos dados
+- Modelagem dos dados
+- Criação de tabelas dinâmicas
+- Criação de gráficos
+- Elaboração do dashboard
+
+
+No ChatGPT：
+- Upload da tabela tratada apenas com as informações da base de dados
+- Execução dos prompts abaixo.
+
 
 ## 🧠 Prompts
-
 
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de análise de dados, o ebook é sobre superação de desafios na mudança de carreira para a área de análise de dados, o título deve ser épico e curto, poderoso mas não ser exagerado, me liste 5 variações de títulos                                                        |
-| conteúdo | Crie uma estrutura de tópicos detalhada sobre os capítulos que podem compor este e-book. {REGRAS} Me faça perguntas cujas respostas poderiam compor o capítulo, sempre deixe um título sugestivo por tópico |
+|  Insights  | *Após arrastar a tabela criada no Excel (versão salva apenas a base de dados) para o chat, utilizei o seguinte prompt: Utilize a tabela de dados contida no documento acima como base de conhecimento e me gere alguns insights dessa tabela de gastos.                                                        |
+| Planejamento | Com base no conhecimento adquirido, o que me daria como recomendação para um planejamento financeiro, visando reduzir os gastos e aumentar as reservas?  |
+
+| Renda extra | Sou analista de dados. Alguma sugestão de atividades que poderiam gerar alguma renda extra?  |
 
 
 Leonardo AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem surrealista que contenha um caminho com gráficos ascendentes, em cores suaves e tenha uma figura feminina |
+| imagem de capa | Crie uma imagem surrealista que contenha um caminho com gráficos ascendentes, em cores suaves e tenha uma figura feminina |
 
-## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via Leonardo.ai
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/`
-- ebook gerado durante as aulas em `https://github.com/anaribeiro54/prompts-recipe-to-create-a-ebook/`
+- [Capa gerada no Leonardo AI](https://github.com/anaribeiro54/prompts-for-podcast-generate-by-ia/blob/main/assets/A%20hand-drawn%20sketch%20in%20classic%20black%20and%20white%2C%20depicting%20a%20woman%20surrounded%20by%20ascending%20graphs%20and%20a%20path.%20The%20style%20is%20timeless%20and%20elegant%2C%20featuring%20rough%20lines%2C%20textured%20pencil%20strokes%2C%20and%20deep%20shadows%20again.jpg)
+- [Planilha com dashboard](https://github.com/anaribeiro54/dio_desafio_banco_de_dados/blob/main/Data_base_com%20_dashboard.xlsx)
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 ## 👨‍💻 Expert
 
